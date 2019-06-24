@@ -13,6 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "dirt", "neon", "mint", "plum", "sunrise"
+[MaeX
 
 # Site Settings
 locale                   : "en-NZ"
